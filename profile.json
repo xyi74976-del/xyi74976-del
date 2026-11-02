@@ -1,0 +1,34 @@
+{
+  "username": "xyi74976-del",
+  "name": "yi-coding",
+  "latin": "",
+  "eyebrow": "AI AGENTS / OPEN SOURCE",
+  "tagline": "探索 AI Agent 工程，让每一步决策都有据可循。",
+  "sub": "工具编排 · 证据链 · 可观测性 · 人工审批",
+  "theme": "t1",
+  "accent": "blue",
+  "mode": "auto",
+  "language": "zh",
+  "projects": [
+    {
+      "name": "Incident Diagnosis Agent",
+      "url": "https://github.com/xyi74976-del/incident-diagnosis-agent",
+      "description": "基于本地场景数据的故障诊断演示：编排指标、日志与链路工具，记录证据和执行轨迹，为高风险处置保留人工审批。"
+    },
+    {
+      "name": "Ecommerce Decision Agent",
+      "url": "https://github.com/xyi74976-del/ecommerce-decision-agent",
+      "description": "基于本地场景数据的电商售后决策演示：汇集订单、支付与物流证据，识别信息冲突，生成带审批要求的建议与回复草稿。"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/xyi74976-del"
+    },
+    {
+      "name": "公开项目",
+      "url": "https://github.com/xyi74976-del?tab=repositories"
+    }
+  ]
+}
